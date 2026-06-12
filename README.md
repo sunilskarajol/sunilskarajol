@@ -61,9 +61,7 @@
 
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,js,hibernate,git,github,postman,vscode,eclipse,maven" />
-</p>---
+
 
 📚 Currently Learning
 
