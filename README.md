@@ -1,12 +1,12 @@
-<div align="center">👋 Hi, I'm Sudeep Nandyal
+<div align="center">👋 Hi, I'm Sunil Karajol
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Software+Engineer;Spring+Boot+Developer;Open+to+IT+Opportunities" alt="Typing Animation" />💻 Java Full Stack Developer | Software Engineer | Open to IT Opportunities
 
 <p>
-  <a href="https://www.linkedin.com/in/sudeep-nandyal-185310340">
+  <a href="https://www.linkedin.com/in/sunil-karajol-68b39a298/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sudeepsnandyal@gmail.com">
+  <a href="mailto:sunilskarjol@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sudeepsnandyal.github.io/Sudeep_Portfolio/">
@@ -60,10 +60,6 @@
 <img src="https://skillicons.dev/icons?i=eclipse" width="40" /> <b>Eclipse IDE</b>
 
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,py,html,css,js,hibernate,git,github,postman,vscode,eclipse,maven" />
-</p>---
 
 📚 Currently Learning
 
