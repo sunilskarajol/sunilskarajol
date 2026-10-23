@@ -26,7 +26,7 @@
 
 * 💻 Passionate about developing scalable backend systems and full-stack web applications.
 * ☕ Skilled in Java, Spring Boot, SQL, REST APIs, and modern web technologies.
-* 🌱 Currently learning Spring Security, Microservices, Docker, and Cloud technologies.
+* 🌱 Currently learning Spring Security, Microservices and Cloud technologies.
 * 🎯 Open to Software Engineer, Java Developer, Java Full Stack Developer, Backend Developer, and IT opportunities.
 * 📍 Bengaluru, Karnataka, India.
 
@@ -43,8 +43,6 @@
 <img src="https://skillicons.dev/icons?i=mysql" width="40" /> <b>SQL</b><br><br>
 
 <img src="https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /> <b>PL/SQL</b><br><br>
-
-<img src="https://skillicons.dev/icons?i=python" width="40" /> <b>Python</b><br><br>
 
 <img src="https://skillicons.dev/icons?i=html" width="40" /> <b>HTML</b><br><br>
 
@@ -78,7 +76,6 @@
 
 * 🔐 Spring Security & JWT
 * 🏗️ Microservices Architecture
-* 🐳 Docker
 * ☁️ AWS Fundamentals
 * ⚙️ CI/CD Pipelines
 * 📐 System Design
